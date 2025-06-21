@@ -1,0 +1,17 @@
+# Игнорировать временные файлы
+*.log
+*.tmp
+
+# Игнорировать папку node_modules (для JavaScript-проектов)
+node_modules/
+
+# Игнорировать конфиденциальные файлы
+config.json
+*.env
+
+# Игнорировать папку logs
+logs/
+
+# Игнорировать все файлы в папке temp, кроме important.txt
+temp/*
+!temp/important.txt
