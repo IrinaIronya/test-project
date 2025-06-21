@@ -15,3 +15,5 @@ logs/
 # Игнорировать все файлы в папке temp, кроме important.txt
 temp/*
 !temp/important.txt
+
+error.log
